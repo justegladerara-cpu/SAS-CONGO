@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /fr/merci/
+Disallow: /en/thank-you/
+Sitemap: https://www.sascongo.com/sitemap.xml

@@ -1,0 +1,594 @@
+[
+  {
+    "path": "/fr/",
+    "alternate": "/en/",
+    "title": "SAS Congo | RH, recrutement & Oil & Gas",
+    "description": "SAS Congo | RH, recrutement & Oil & Gas — Informations et contacts de SAS Congo.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/entreprise/",
+    "alternate": "/en/company/",
+    "title": "L’entreprise | SAS Congo",
+    "description": "L’ingénierie et les solutions RH au service des entreprises en République du Congo et en Afrique Centrale.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/secteurs/",
+    "alternate": "/en/sectors/",
+    "title": "Secteurs d’intervention | SAS Congo",
+    "description": "Comprendre vos métiers pour répondre à vos besoins en compétences.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/presence-internationale/",
+    "alternate": "/en/international-presence/",
+    "title": "Ancrage africain. Connexions internationales. | SAS Congo",
+    "description": "Depuis Pointe-Noire, un réseau ouvert sur les marchés africains, Londres et les partenaires techniques d’Aberdeen.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/references/",
+    "alternate": "/en/references/",
+    "title": "Ils nous font confiance | SAS Congo",
+    "description": "Un espace réservé aux références dont la publication sera validée par l’entreprise.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/carrieres/",
+    "alternate": "/en/careers/",
+    "title": "Votre prochaine étape professionnelle | SAS Congo",
+    "description": "Métiers techniques, opérations offshore, fonctions RH et administratives : explorez le parcours candidat.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/candidature/",
+    "alternate": "/en/apply/",
+    "title": "Faites connaître votre talent | SAS Congo",
+    "description": "Présentez votre parcours pour une candidature spontanée.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/contact/",
+    "alternate": "/en/contact/",
+    "title": "Parlons de votre projet | SAS Congo",
+    "description": "Un besoin en personnel, une formation ou un projet d’implantation : contactez le bureau adapté.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/demande-de-devis/",
+    "alternate": "/en/request-a-quote/",
+    "title": "Construisons la réponse à votre besoin | SAS Congo",
+    "description": "Présentez votre contexte en quatre étapes. Votre demande servira de base à un échange avec SAS Congo.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/actualites/",
+    "alternate": "/en/insights/",
+    "title": "Regards sur les métiers et les ressources… | SAS Congo",
+    "description": "Des sujets à explorer pour les entreprises et les candidats.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/evenements-rh/",
+    "alternate": "/en/hr-events/",
+    "title": "Événements RH | SAS Congo",
+    "description": "Forums emploi, rencontres professionnelles et sessions de formation.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/",
+    "alternate": "/en/hr-solutions/",
+    "title": "Solutions RH | SAS Congo",
+    "description": "Des compétences pour vos opérations. Une organisation RH adaptée à votre entreprise.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/mise-a-disposition-personnel/",
+    "alternate": "/en/hr-solutions/staffing/",
+    "title": "Personnel onshore & offshore | SAS Congo",
+    "description": "Mobilisez les compétences dont vos opérations ont besoin, à terre comme en mer.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/sourcing-recrutement/",
+    "alternate": "/en/hr-solutions/recruitment/",
+    "title": "Sourcing & recrutement | SAS Congo",
+    "description": "Identifiez les talents pertinents pour votre métier et votre environnement.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/audits-rh/",
+    "alternate": "/en/hr-solutions/hr-audits/",
+    "title": "Audits RH | SAS Congo",
+    "description": "Prenez du recul sur vos pratiques RH et identifiez les risques potentiels.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/outils-procedures/",
+    "alternate": "/en/hr-solutions/hr-tools-procedures/",
+    "title": "Outils & procédures RH | SAS Congo",
+    "description": "Donnez à vos équipes RH des repères adaptés à votre stratégie.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/drh-temps-partage/",
+    "alternate": "/en/hr-solutions/fractional-hr-director/",
+    "title": "DRH à temps partagé | SAS Congo",
+    "description": "Accédez à une fonction de direction RH selon les besoins de votre PME-PMI.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/conseil-droit-social/",
+    "alternate": "/en/hr-solutions/employment-law-support/",
+    "title": "Conseil en droit social | SAS Congo",
+    "description": "Situez vos décisions RH dans leur environnement juridique.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/solutions-rh/accompagnement-managers/",
+    "alternate": "/en/hr-solutions/on-site-hr-coaching/",
+    "title": "Accompagnement in situ | SAS Congo",
+    "description": "Faites progresser les pratiques RH au plus près du travail quotidien.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/formations/",
+    "alternate": "/en/training/",
+    "title": "Formations | SAS Congo",
+    "description": "Des formations pratiques construites autour de vos métiers.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/representation-commerciale/",
+    "alternate": "/en/commercial-representation/",
+    "title": "Représentation commerciale | SAS Congo",
+    "description": "Votre relais local. Vos ambitions internationales.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/assistance-technique-oil-gas/",
+    "alternate": "/en/oil-gas-technical-support/",
+    "title": "Assistance technique Oil & Gas | SAS Congo",
+    "description": "Un appui technique relié à vos enjeux opérationnels.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/assainissement/",
+    "alternate": "/en/sanitation/",
+    "title": "Assainissement | SAS Congo",
+    "description": "Un pôle d’activité dont le périmètre reste à préciser.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/carrieres/example-maintenance/",
+    "alternate": "/en/careers/example-maintenance/",
+    "title": "EXEMPLE — Technicien de maintenance offshore | SAS Congo",
+    "description": "EXEMPLE — Technicien de maintenance offshore — Offre fictive destinée uniquement à présenter le parcours candidat. Aucun recrutement n’est ouvert pour…",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/carrieres/example-hr/",
+    "alternate": "/en/careers/example-hr/",
+    "title": "EXEMPLE — Chargé de recrutement | SAS Congo",
+    "description": "EXEMPLE — Chargé de recrutement — Offre fictive destinée uniquement à présenter le parcours candidat. Aucun recrutement n’est ouvert pour cette offre.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/carrieres/example-logistics/",
+    "alternate": "/en/careers/example-logistics/",
+    "title": "EXEMPLE — Coordinateur logistique maritime | SAS Congo",
+    "description": "EXEMPLE — Coordinateur logistique maritime — Offre fictive destinée uniquement à présenter le parcours candidat. Aucun recrutement n’est ouvert pour…",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/actualites/preparer-recrutement-offshore/",
+    "alternate": "/en/insights/preparer-recrutement-offshore/",
+    "title": "Recrutement offshore au Congo : préparer un… | SAS Congo",
+    "description": "Recrutement offshore au Congo : préparer un brief de poste — Sujet proposé, modèle à compléter.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/actualites/structurer-fonction-rh/",
+    "alternate": "/en/insights/structurer-fonction-rh/",
+    "title": "PME-PMI : comment structurer sa fonction RH ? | SAS Congo",
+    "description": "PME-PMI : comment structurer sa fonction RH ? — Sujet proposé, modèle à compléter.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/actualites/questions-droit-social/",
+    "alternate": "/en/insights/questions-droit-social/",
+    "title": "Droit du travail au Congo : les questions à… | SAS Congo",
+    "description": "Droit du travail au Congo : les questions à poser avant de recruter — Sujet proposé, modèle à compléter.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/actualites/cv-technique/",
+    "alternate": "/en/insights/cv-technique/",
+    "title": "CV technique : présenter ses compétences et… | SAS Congo",
+    "description": "CV technique : présenter ses compétences et certifications — Sujet proposé, modèle à compléter.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/actualites/representation-congo/",
+    "alternate": "/en/insights/representation-congo/",
+    "title": "Représentation commerciale au Congo :… | SAS Congo",
+    "description": "Représentation commerciale au Congo : préparer une première visite — Sujet proposé, modèle à compléter.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/actualites/personnel-onshore-offshore/",
+    "alternate": "/en/insights/personnel-onshore-offshore/",
+    "title": "Personnel onshore et offshore : cadrer ses… | SAS Congo",
+    "description": "Personnel onshore et offshore : cadrer ses besoins de recrutement — Sujet proposé, modèle à compléter.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/mentions-legales/",
+    "alternate": "/en/legal-notice/",
+    "title": "Mentions légales | SAS Congo",
+    "description": "Mentions légales | SAS Congo — Informations et contacts de SAS Congo.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/confidentialite/",
+    "alternate": "/en/privacy/",
+    "title": "Protection des données et des candidatures | SAS Congo",
+    "description": "Protection des données et des candidatures | SAS Congo — Informations et contacts de SAS Congo.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/cookies/",
+    "alternate": "/en/cookies/",
+    "title": "Politique cookies | SAS Congo",
+    "description": "Politique cookies | SAS Congo — Informations et contacts de SAS Congo.",
+    "lang": "fr",
+    "noindex": false
+  },
+  {
+    "path": "/fr/merci/",
+    "alternate": "/en/thank-you/",
+    "title": "Votre demande a été reçue | SAS Congo",
+    "description": "Votre demande a été reçue | SAS Congo — Informations et contacts de SAS Congo.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/fr/404/",
+    "alternate": "/en/404/",
+    "title": "Cette page n’est pas disponible | SAS Congo",
+    "description": "Cette page n’est pas disponible | SAS Congo — Informations et contacts de SAS Congo.",
+    "lang": "fr",
+    "noindex": true
+  },
+  {
+    "path": "/en/",
+    "alternate": "/fr/",
+    "title": "SAS Congo | HR, staffing & Oil & Gas",
+    "description": "SAS Congo | HR, staffing & Oil & Gas — SAS Congo information and contacts.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/company/",
+    "alternate": "/fr/entreprise/",
+    "title": "Our company | SAS Congo",
+    "description": "Engineering and HR solutions for businesses in the Republic of Congo and Central Africa.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/sectors/",
+    "alternate": "/fr/secteurs/",
+    "title": "Industries we serve | SAS Congo",
+    "description": "Understanding your industry to respond to your workforce needs.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/international-presence/",
+    "alternate": "/fr/presence-internationale/",
+    "title": "African roots. International connections. | SAS Congo",
+    "description": "From Pointe-Noire, connections across African markets, a London commercial hub and technical partners in Aberdeen.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/references/",
+    "alternate": "/fr/references/",
+    "title": "Client references | SAS Congo",
+    "description": "A dedicated space for references approved for publication by the company.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/careers/",
+    "alternate": "/fr/carrieres/",
+    "title": "Your next career move | SAS Congo",
+    "description": "Technical roles, offshore operations, HR and administrative work: explore the candidate journey.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/apply/",
+    "alternate": "/fr/candidature/",
+    "title": "Tell us about your skills | SAS Congo",
+    "description": "Share your background through a speculative application.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/contact/",
+    "alternate": "/fr/contact/",
+    "title": "Let’s talk about your project | SAS Congo",
+    "description": "Staffing, training or a market-entry project: contact the appropriate office.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/request-a-quote/",
+    "alternate": "/fr/demande-de-devis/",
+    "title": "Let’s define the support you need | SAS Congo",
+    "description": "Tell us about your requirements in four steps. Your request will provide a starting point for a discussion with SAS Congo.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/insights/",
+    "alternate": "/fr/actualites/",
+    "title": "Perspectives on people and industry | SAS Congo",
+    "description": "Topics to explore for businesses and candidates.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-events/",
+    "alternate": "/fr/evenements-rh/",
+    "title": "HR events | SAS Congo",
+    "description": "Employment forums, professional meetings and training sessions.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/",
+    "alternate": "/fr/solutions-rh/",
+    "title": "HR solutions | SAS Congo",
+    "description": "The people your operations need. HR support shaped around your business.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/staffing/",
+    "alternate": "/fr/solutions-rh/mise-a-disposition-personnel/",
+    "title": "Onshore & offshore staffing | SAS Congo",
+    "description": "Bring the right skills to your operations, onshore and offshore.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/recruitment/",
+    "alternate": "/fr/solutions-rh/sourcing-recrutement/",
+    "title": "Sourcing & recruitment | SAS Congo",
+    "description": "Find talent suited to your industry and operating environment.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/hr-audits/",
+    "alternate": "/fr/solutions-rh/audits-rh/",
+    "title": "HR audits | SAS Congo",
+    "description": "Review your HR practices and identify potential risks.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/hr-tools-procedures/",
+    "alternate": "/fr/solutions-rh/outils-procedures/",
+    "title": "HR tools & procedures | SAS Congo",
+    "description": "Give your HR team practical tools aligned with your strategy.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/fractional-hr-director/",
+    "alternate": "/fr/solutions-rh/drh-temps-partage/",
+    "title": "Fractional HR director | SAS Congo",
+    "description": "Access HR leadership at a level suited to your business.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/employment-law-support/",
+    "alternate": "/fr/solutions-rh/conseil-droit-social/",
+    "title": "Employment law support | SAS Congo",
+    "description": "Understand the legal context of your HR decisions.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/hr-solutions/on-site-hr-coaching/",
+    "alternate": "/fr/solutions-rh/accompagnement-managers/",
+    "title": "On-site HR coaching | SAS Congo",
+    "description": "Develop HR practices where the work happens.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/training/",
+    "alternate": "/fr/formations/",
+    "title": "Training | SAS Congo",
+    "description": "Practical training shaped around your professional needs.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/commercial-representation/",
+    "alternate": "/fr/representation-commerciale/",
+    "title": "Commercial representation | SAS Congo",
+    "description": "Local representation. International ambition.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/oil-gas-technical-support/",
+    "alternate": "/fr/assistance-technique-oil-gas/",
+    "title": "Oil & Gas technical support | SAS Congo",
+    "description": "Technical support connected to your operational needs.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/sanitation/",
+    "alternate": "/fr/assainissement/",
+    "title": "Sanitation | SAS Congo",
+    "description": "A business area with a scope to be confirmed.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/careers/example-maintenance/",
+    "alternate": "/fr/carrieres/example-maintenance/",
+    "title": "EXAMPLE — Offshore maintenance technician | SAS Congo",
+    "description": "EXAMPLE — Offshore maintenance technician — Fictional vacancy demonstrating the candidate journey. This is not an open recruitment opportunity.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/careers/example-hr/",
+    "alternate": "/fr/carrieres/example-hr/",
+    "title": "EXAMPLE — Recruitment officer | SAS Congo",
+    "description": "EXAMPLE — Recruitment officer — Fictional vacancy demonstrating the candidate journey. This is not an open recruitment opportunity.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/careers/example-logistics/",
+    "alternate": "/fr/carrieres/example-logistics/",
+    "title": "EXAMPLE — Maritime logistics coordinator | SAS Congo",
+    "description": "EXAMPLE — Maritime logistics coordinator — Fictional vacancy demonstrating the candidate journey. This is not an open recruitment opportunity.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/insights/preparer-recrutement-offshore/",
+    "alternate": "/fr/actualites/preparer-recrutement-offshore/",
+    "title": "Offshore recruitment in Congo: preparing a… | SAS Congo",
+    "description": "Offshore recruitment in Congo: preparing a role brief — Proposed topic, template to complete.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/insights/structurer-fonction-rh/",
+    "alternate": "/fr/actualites/structurer-fonction-rh/",
+    "title": "How can smaller businesses structure their HR… | SAS Congo",
+    "description": "How can smaller businesses structure their HR function? — Proposed topic, template to complete.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/insights/questions-droit-social/",
+    "alternate": "/fr/actualites/questions-droit-social/",
+    "title": "Employment in Congo: questions to ask before… | SAS Congo",
+    "description": "Employment in Congo: questions to ask before hiring — Proposed topic, template to complete.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/insights/cv-technique/",
+    "alternate": "/fr/actualites/cv-technique/",
+    "title": "Technical CVs: presenting skills and… | SAS Congo",
+    "description": "Technical CVs: presenting skills and certifications — Proposed topic, template to complete.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/insights/representation-congo/",
+    "alternate": "/fr/actualites/representation-congo/",
+    "title": "Commercial representation in Congo: preparing… | SAS Congo",
+    "description": "Commercial representation in Congo: preparing your first visit — Proposed topic, template to complete.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/insights/personnel-onshore-offshore/",
+    "alternate": "/fr/actualites/personnel-onshore-offshore/",
+    "title": "Onshore and offshore teams: defining your… | SAS Congo",
+    "description": "Onshore and offshore teams: defining your staffing needs — Proposed topic, template to complete.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/legal-notice/",
+    "alternate": "/fr/mentions-legales/",
+    "title": "Legal notice | SAS Congo",
+    "description": "Legal notice | SAS Congo — SAS Congo information and contacts.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/privacy/",
+    "alternate": "/fr/confidentialite/",
+    "title": "Privacy and candidate data | SAS Congo",
+    "description": "Privacy and candidate data | SAS Congo — SAS Congo information and contacts.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/cookies/",
+    "alternate": "/fr/cookies/",
+    "title": "Cookie policy | SAS Congo",
+    "description": "Cookie policy | SAS Congo — SAS Congo information and contacts.",
+    "lang": "en",
+    "noindex": false
+  },
+  {
+    "path": "/en/thank-you/",
+    "alternate": "/fr/merci/",
+    "title": "Your submission has been received | SAS Congo",
+    "description": "Your submission has been received | SAS Congo — SAS Congo information and contacts.",
+    "lang": "en",
+    "noindex": true
+  },
+  {
+    "path": "/en/404/",
+    "alternate": "/fr/404/",
+    "title": "This page is not available | SAS Congo",
+    "description": "This page is not available | SAS Congo — SAS Congo information and contacts.",
+    "lang": "en",
+    "noindex": true
+  }
+]

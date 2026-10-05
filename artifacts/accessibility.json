@@ -1,0 +1,34 @@
+[
+  {
+    "route": "/fr/",
+    "violations": []
+  },
+  {
+    "route": "/fr/solutions-rh/",
+    "violations": []
+  },
+  {
+    "route": "/fr/demande-de-devis/",
+    "violations": []
+  },
+  {
+    "route": "/fr/candidature/",
+    "violations": []
+  },
+  {
+    "route": "/fr/carrieres/",
+    "violations": []
+  },
+  {
+    "route": "/fr/contact/",
+    "violations": []
+  },
+  {
+    "route": "/fr/presence-internationale/",
+    "violations": []
+  },
+  {
+    "route": "/en/",
+    "violations": []
+  }
+]
